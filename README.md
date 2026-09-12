@@ -235,7 +235,7 @@ BPDS-main/
 
 ### 1️⃣ Vista Principal - Lista de Tareas
 
-![Vista principal con lista de tareas](public/screenshots/Captura de pantalla 2026-09-12 131845.png)
+![Vista principal con lista de tareas](https://github.com/AlexanderBarriosd/BPDS/blob/master/public/screenshots/Captura%20de%20pantalla%202026-09-12%20131845.png)
 
 **Características mostradas:**
 - ✅ Campo de entrada para nuevas tareas con placeholder descriptivo
