@@ -235,7 +235,7 @@ BPDS-main/
 
 ### 1️⃣ Vista Principal - Lista de Tareas
 
-![Vista principal con lista de tareas](./public/screenshots/01-vista-principal.png)
+![Vista principal con lista de tareas](public/screenshots/Captura de pantalla 2026-09-12 131845.png)
 
 **Características mostradas:**
 - ✅ Campo de entrada para nuevas tareas con placeholder descriptivo
@@ -252,7 +252,7 @@ BPDS-main/
 
 ### 2️⃣ Vista de Papelera - Tareas Eliminadas
 
-![Vista de papelera con tareas recuperables](./public/screenshots/02-papelera-tareas.png)
+![Vista de papelera con tareas recuperables](public/screenshots/Captura de pantalla 2026-09-12 131914.png)
 
 **Características mostradas:**
 - ✅ Encabezado "🗑️ PAPELERA" con botón "← Volver"
@@ -271,7 +271,7 @@ BPDS-main/
 
 ### 3️⃣ Vista Principal - Papelera Vacía
 
-![Vista principal con papelera vacía](./public/screenshots/03-vista-principal-vacia.png)
+![Vista principal con papelera vacía](public/screenshots/Captura de pantalla 2026-09-12 131932.png)
 
 **Características mostradas:**
 - ✅ Encabezado "Mi lista de tareas" con botón papelera
