@@ -252,7 +252,7 @@ BPDS-main/
 
 ### 2️⃣ Vista de Papelera - Tareas Eliminadas
 
-![Vista de papelera con tareas recuperables](public/screenshots/Captura de pantalla 2026-09-12 131914.png)
+![Vista de papelera con tareas recuperables](https://github.com/AlexanderBarriosd/BPDS/blob/master/public/screenshots/Captura%20de%20pantalla%202026-09-12%20131914.png?raw=true)
 
 **Características mostradas:**
 - ✅ Encabezado "🗑️ PAPELERA" con botón "← Volver"
@@ -271,7 +271,7 @@ BPDS-main/
 
 ### 3️⃣ Vista Principal - Papelera Vacía
 
-![Vista principal con papelera vacía](public/screenshots/Captura de pantalla 2026-09-12 131932.png)
+![Vista principal con papelera vacía](https://github.com/AlexanderBarriosd/BPDS/blob/master/public/screenshots/Captura%20de%20pantalla%202026-09-12%20131932.png?raw=true)
 
 **Características mostradas:**
 - ✅ Encabezado "Mi lista de tareas" con botón papelera
