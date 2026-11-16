@@ -23,6 +23,9 @@ jobs:
           npm ci
           npm run build
 
+      - name: Crear archivo health.html
+        run: echo "OK" > out/health.html
+
       - name: Credenciales de AWS
         uses: aws-actions/configure-aws-credentials@v4
         with:
